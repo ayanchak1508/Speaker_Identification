@@ -12,4 +12,6 @@ We use a CNN to detect if the correct numerical code has been spoken.
 
 MFCC Coefficients are used as FVs for the CNN.
 
+Please refer to the report for a detailed analysis and results.
+
 Joint Contributors: Ayan Chakraborty, A Jaaneshwaran
